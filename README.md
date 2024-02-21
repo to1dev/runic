@@ -7,6 +7,12 @@ My first ARC20 NFT collection.
 
 ![Runic Logo](/runic-s.png "Runic Logo")
 
-**Mint Rules**
+✨**Mint Rules**✨
 
-1. "16d2" - 100,000 [Sophon](https://bitatom.io/token/sophon "Buy Sophon token") plus Gas fee.
+1. "16d2": 100,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") plus gas fee.
+
+2. "16a0" - "16af": 10 items, each is 50,000 [Runic](https://bitatom.io/arc20/runic "Runic token") plus gas fee.
+
+3. "16b0" - "16bf": 10 items, each is 50,000 [Krypton](https://bitatom.io/arc20/krypton "Krypton token") plus gas fee.
+
+4. "16c0" - "16f8": 50,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") plus gas fee.
