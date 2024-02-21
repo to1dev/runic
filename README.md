@@ -9,4 +9,4 @@ My first ARC20 NFT collection.
 
 **Mint Rules**
 
-1. "16d2" - 100,000 [Sophon](https://bitatom.io/token/sophon "Buy Sophon token") plus Gas fee.
+1. "16d2" - 100,000 <a href="https://bitatom.io/token/sophon" target="_blank">Sophon</a> plus Gas fee.
