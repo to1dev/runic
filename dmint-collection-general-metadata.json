@@ -1,0 +1,14 @@
+{
+  "name": "Runic",
+  "desc": "Runic is an NFT collection cooked up by to1dev",
+  "image": "atom:btc:dat:483b0177b20c245135b73bfbd179671cb691f9e748f474c527cadce8417cb7bai0/logo.svg",
+  "legal": {
+    "terms": "...",
+    "license": "CC"
+  },
+  "links": {
+    "x": {
+      "v": "https://x.com/to1dev"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "mainHash": "d543a6c00bcd9af6faad3168a81f5eba67f99437a3ecd2e989c4fd8afdc2353b",
+  "data": {
+    "args": {
+      "request_dmitem": "16f8",
+      "main": "image.svg",
+      "i": true,
+      "proof": [
+        {
+          "p": false,
+          "d": "7f78fadf57b08ac8dbb5f8656a0ed24db46b1d83aa0dba315911c450af134234"
+        },
+        {
+          "p": false,
+          "d": "9ceaf78e4bbd30c493c40b854b977414aabf64cb5561789bd58cc78f97942b41"
+        },
+        {
+          "p": false,
+          "d": "40ef15e42840045b0d8ed339c85d6985c0a75984240a4e7c4785e02268dca078"
+        }
+      ]
+    },
+    "image.svg": {
+      "$b": "3c73766720786d6c6e733d22687474703a2f2f7777772e77332e6f72672f323030302f737667222076696577426f783d222d31302030203537362031303030223e3c706174682066696c6c3d2263757272656e74436f6c6f722220643d226d313020383030203232382d333238563836683930763338366c32323820333238483434384c3238342035363020313138203830307a222f3e3c2f7376673e"
+    }
+  },
+  "targetVector": "16f8:any:any:image.svg:d543a6c00bcd9af6faad3168a81f5eba67f99437a3ecd2e989c4fd8afdc2353b",
+  "targethash": "d543a6c00bcd9af6faad3168a81f5eba67f99437a3ecd2e989c4fd8afdc2353b"
+}

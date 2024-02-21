@@ -1,0 +1,51 @@
+{
+  "dmint": {
+    "v": "1",
+    "mint_height": 0,
+    "merkle": "d1202c48287ea1e954a2bca0ce1ec87b688fd58be131e7a11d56c1e57c56cef5",
+    "immutable": true,
+    "items": 89,
+    "rules": [
+      {
+        "p": "^16d2$",
+        "o": {
+            "5120ed2ec645d1749c9b2dba88b1346899c60c82f7a57e6359964393a2bba31450f2": {
+              "v": 100000,
+              "id": "360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0"
+            }
+        },
+        "bitworkc": "16a016f8"
+      },
+      {
+        "p": "^16a",
+        "o": {
+            "5120ed2ec645d1749c9b2dba88b1346899c60c82f7a57e6359964393a2bba31450f2": {
+              "v": 50000,
+              "id": "2898bf66c0be8d6cebfa44022cb40bcf81d9892d41c792ef0682dad676ee458bi0"
+            }
+        },
+        "bitworkc": "16a016f8"
+      },
+      {
+        "p": "^16b",
+        "o": {
+            "5120ed2ec645d1749c9b2dba88b1346899c60c82f7a57e6359964393a2bba31450f2": {
+              "v": 50000,
+              "id": "87737d3412cee7feb5f627fbedacce053db542f12ca0f2e363bc9290d7e0ba64i0"
+            }
+        },
+        "bitworkc": "16a016f8"
+      },
+      {
+        "p": ".*",
+        "o": {
+            "5120ed2ec645d1749c9b2dba88b1346899c60c82f7a57e6359964393a2bba31450f2": {
+              "v": 50000,
+              "id": "360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0"
+            }
+        },
+        "bitworkc": "16a016f8"
+      }
+    ]
+  }
+}
