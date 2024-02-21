@@ -9,7 +9,7 @@ My first ARC20 NFT collection.
 
 ✨**Mint Rules**✨
 
-**All funds will be directly transferred to the Bitcoin address of the ARC20 protocol author.**
+⭐**All funds will be directly transferred to the Bitcoin address of the ARC20 protocol author.**⭐
 
 1. "16d2": 100,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") tokens plus gas fee.
 
