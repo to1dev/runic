@@ -13,7 +13,7 @@ My first ARC20 NFT collection.
 
 ***⭐Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/)⭐***
 
-***⭐Buy Sophon token at [Bitatom](https://bitatom.io/)⭐***
+***⭐Buy Sophon token at [Bitatom](https://bitatom.io/token/sophon)⭐***
 
 1. "16d2": ᛒ 🪙100,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") tokens plus gas fee.
 
@@ -26,3 +26,15 @@ My first ARC20 NFT collection.
 The minting difficulty level for these NFTs is set at 8bits, making it somewhat challenging for all. 🧩🔒
 
 All owners of Runic NFTs will automatically qualify for the whitelist of my next NFT project. 🚀🎟️
+
+### ⚙️Specifications.⚙️
+
+Atomicals Ids:
+
+**Sophon token**: 360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0
+
+**Runic token**: 2898bf66c0be8d6cebfa44022cb40bcf81d9892d41c792ef0682dad676ee458bi0
+
+**Krypton token**: 87737d3412cee7feb5f627fbedacce053db542f12ca0f2e363bc9290d7e0ba64i0
+
+**Runic NFT**: 88888d29f7733ccd5b2c71febcfde1072d4dfe91d491f5aed043be3240432306i0
