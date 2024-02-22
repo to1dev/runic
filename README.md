@@ -27,14 +27,14 @@ The minting difficulty level for these NFTs is set at 8bits, making it somewhat 
 
 All owners of Runic NFTs will automatically qualify for the whitelist of my next NFT project. 🚀🎟️
 
-### ⚙️Specifications.⚙️
+## ✨Specifications.✨
 
-Atomicals Ids:
+***🆔✨Atomicals Ids:***
 
-**Sophon token**: 360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0
+***Sophon token: 360533d31e6f3c535acf7a70686ab42cf477b3f7ceaf12ab1d30be218b1726a9i0***
 
-**Runic token**: 2898bf66c0be8d6cebfa44022cb40bcf81d9892d41c792ef0682dad676ee458bi0
+***Runic token: 2898bf66c0be8d6cebfa44022cb40bcf81d9892d41c792ef0682dad676ee458bi0***
 
-**Krypton token**: 87737d3412cee7feb5f627fbedacce053db542f12ca0f2e363bc9290d7e0ba64i0
+**Krypton token: 87737d3412cee7feb5f627fbedacce053db542f12ca0f2e363bc9290d7e0ba64i0***
 
-**Runic NFT**: 88888d29f7733ccd5b2c71febcfde1072d4dfe91d491f5aed043be3240432306i0
+***Runic NFT: 88888d29f7733ccd5b2c71febcfde1072d4dfe91d491f5aed043be3240432306i0***
