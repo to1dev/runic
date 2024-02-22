@@ -9,11 +9,11 @@ My first ARC20 NFT collection.
 
 ## ✨Mint Rules✨
 
-⭐*** All funds will be directly deposited into the Bitcoin address of the ARC20 protocol author. ***⭐
+⭐ *** All funds will be directly deposited into the Bitcoin address of the ARC20 protocol author. *** ⭐
 
-⭐*** Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/) ***⭐
+⭐ *** Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/) *** ⭐
 
-⭐*** Buy Sophon token at [Bitatom](https://bitatom.io/) ***⭐
+⭐ *** Buy Sophon token at [Bitatom](https://bitatom.io/) *** ⭐
 
 1. "16d2": ᛒ 🪙100,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") tokens plus gas fee.
 
