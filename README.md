@@ -13,7 +13,7 @@ My first ARC20 NFT collection.
 
 ***⭐Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/)⭐***
 
-⭐***Buy Sophon token at [Bitatom](https://bitatom.io/)***⭐
+***⭐Buy Sophon token at [Bitatom](https://bitatom.io/)⭐***
 
 1. "16d2": ᛒ 🪙100,000 [Sophon](https://bitatom.io/token/sophon "Sophon token") tokens plus gas fee.
 
