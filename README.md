@@ -22,3 +22,6 @@ My first ARC20 NFT collection.
 The minting difficulty level for these NFTs is set at 8bits, making it somewhat challenging for all. 🧩🔒
 
 All owners of Runic NFTs will automatically qualify for the whitelist of my next NFT project. 🚀🎟️
+
+❗Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/)
+❗Buy Sophon token at [Bitatom](https://bitatom.io/)
