@@ -23,5 +23,6 @@ The minting difficulty level for these NFTs is set at 8bits, making it somewhat 
 
 All owners of Runic NFTs will automatically qualify for the whitelist of my next NFT project. 🚀🎟️
 
-❗Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/)
-❗Buy Sophon token at [Bitatom](https://bitatom.io/)
+✨ **Mint Runic token, Krypton token and NFTs with [Wizz Wallet](https://wizzwallet.io/)**
+
+✨ **Buy Sophon token at [Bitatom](https://bitatom.io/)**
